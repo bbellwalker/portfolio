@@ -21,7 +21,7 @@ I'm a SaaS and DevOps professional with a passion for large language models and 
 
 ###  Tidbits
 - 📚 I have not one, but two Masters degrees - in Systems Engineering and English
-- 🌍 I can chat with you in English, Spanish, and a bit of French
+- 🌍 I can chat with you in English, Spanish, French, Melanesian Pidgin (Tok Pisin) and tiny bit of Mandarin
 - 🔌 I have designed electrical safety systems and participated in ASHRAE technical standards committes
   
 ### 🌱 Currently...
