@@ -1,16 +1,16 @@
 ## Greetings. I'm Ben
 
-## ☁️ Cloud DevOps Padawan | 🐦‍⬛ Neurodivergent Jackdaw  | 🔡 Language Enthusiast 🉑 
+## ☁️ Cloud DevOps Guy | 🐦‍⬛ Neurodivergent Jackdaw  | 🔡 Language Enthusiast 🉑 
 
 I'm a SaaS and DevOps professional with a passion for large language models and a background in English. Currently working on embracing my neurodivergent skillset and turning my unique perspective into a superpower.
 
 ### 🛠️ Tech Stack
-- ☁️ Cloud: OCI, AWS
+- ☁️ Cloud platforms: OCI, AWS, Azure
 - 🔧 DevOps: Ansible, Terraform, GitHub
 - 🐳 Containers: Docker, Kubernetes
 - 🔍 Monitoring: Splunk
 - 💾 Databases: MySQL, Hive
-- 🐚 Scripting: Bash, Ruby
+- 🐚 Scripting: Bash, Ruby, Python
 
 ### 🎓 Certifications
 - Oracle Cloud Infrastructure 2023 Certified Operations Professional
@@ -21,11 +21,11 @@ I'm a SaaS and DevOps professional with a passion for large language models and 
 
 ###  Tidbits
 - 📚 I have not one, but two Masters degrees - in Systems Engineering and English
-- 🌍 I can chat with you in English, Spanish, French, Melanesian Pidgin (Tok Pisin) and tiny bit of Mandarin
+- 🌍 I've lived all over and can chat with you in English, Spanish, French, Melanesian Pidgin (Tok Pisin) and tiny bit of Mandarin
 - 🔌 I have designed electrical safety systems and participated in ASHRAE technical standards committes
   
 ### 🌱 Currently...
-- Learning more about ML Ops and large language models
+- Learning so much more about ML Ops and large language models
 - Exploring new ways to automate all the things
 - Working on personal projects to sharpen my skills
 
