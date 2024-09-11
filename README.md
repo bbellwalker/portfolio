@@ -20,8 +20,8 @@ I'm a SaaS and DevOps professional with a passion for large language models and 
 - AWS Technical Essentials
 
 ###  Tidbits
-- 📚 I have not one, but two Masters degrees - in Systems Engineering and English
-- 🌍 I've lived all over and can chat with you in English, Spanish, French, Melanesian Pidgin (Tok Pisin) and tiny bit of Mandarin
+- 📚 I have two Masters degrees - in Systems Engineering and English
+- 🌍 I've lived all over and can chat with you in English, Spanish, French, Melanesian Pidgin (Tok Pisin) and wee bit of Mandarin
 - 🔌 I have designed electrical safety systems and participated in ASHRAE technical standards committes
   
 ### 🌱 Currently...
@@ -31,7 +31,7 @@ I'm a SaaS and DevOps professional with a passion for large language models and 
 
 ---
 
-⚠️ This profile, like its owner, is a work in progress. Expect periodic refactoring for optimal functionality.
+⚠️ Work in progress. Expect periodic refactoring for optimal functionality. 
 
 ---
 
