@@ -1,6 +1,6 @@
-## Greetings. I'm Ben
+## I'm Ben
 
-## ☁️ Cloud DevOps Guy | 🐦‍⬛ Neurodivergent Jackdaw  | 🔡 Language Enthusiast 🉑 
+## ☁️ Cloud DevOps Practicioner, Information Packrat, Hobbyist Gardener
 
 I'm a SaaS and DevOps professional with a passion for large language models and a background in English. Currently working on embracing my neurodivergent skillset and turning my unique perspective into a superpower.
 
@@ -36,7 +36,7 @@ I'm a SaaS and DevOps professional with a passion for large language models and 
 ---
 
 <p align="center">
-  <i>Link up, link in</i>
+  <i>Connect</i>
   <br>
   <a href="https://www.linkedin.com/in/benjaminbellwalker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
